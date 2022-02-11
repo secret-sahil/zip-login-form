@@ -1,0 +1,12 @@
+.login-box{
+    border-radius: 10px;
+}
+.eye{
+    position: relative;
+    bottom: 1.6rem;
+    right: .5rem;
+}
+.text-danger{
+    color: red;
+    font-size: 15px;
+}
